@@ -46,7 +46,7 @@ We are the **Pull & Bear clothing team** from [Strive School](https://strive.sch
 
 ### Data Description
 
-Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Data was collected by Zalando(a popular German fashion online retail store) to reduce precious time wasted by employees everytime a product is returned by the customer for numerous reason.
+Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Data was collected by [Zalando](zalando.com) (a popular German fashion online retail store) to reduce precious time wasted by employees everytime a product is returned by the customer for numerous reason.
 
 Each training and test example is assigned to one of the following labels:
 
@@ -73,3 +73,14 @@ Each training and test example is assigned to one of the following labels:
 * Visualize the loss behaviour over time for the training and the validation set
 * Inspect the samples that have been misclassified
 * Build an awesome Readme or deploy an app on Streamlit that given a clothing image as input classifies it in a Fashion-MNIST fashion (pun intended).
+
+
+<!-- CONTACT -->
+## The Team:
+
+| Contributors | Tasks | LINKEDIN|
+| ------ | ------ | ------ |
+| Alessio Recchia | Streamlit websharing and model deployment| [https://www.linkedin.com/in/alessio-recchia-3abb3522/]|
+| Lakshmipathi rao Devalla| Model development | [https://www.linkedin.com/in/devalla-lakshmipathirao/] |
+| Madina Zhenisbek | Model development | [https://www.linkedin.com/in/madina-zhenisbek/]|
+| Olatunde Salami  | Project Manager | [https://www.linkedin.com/in/olatunde-salami/] |
