@@ -46,7 +46,7 @@ We are the **Pull & Bear clothing team** from [Strive School](https://strive.sch
 
 ### Data Description
 
-Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Data was collected by [Zalando](zalando.de) (a popular German fashion online retail store) to reduce precious time wasted by employees everytime a product is returned by the customer for numerous reason.
+Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Data was collected by [Zalando](https://en.zalando.de/?_rfl=de) (a popular German fashion online retail store) to reduce precious time wasted by employees everytime a product is returned by the customer for numerous reason.
 
 Each training and test example is assigned to one of the following labels:
 
