@@ -63,7 +63,7 @@ Each training and test example is assigned to one of the following labels:
 
 
 ### Goal of this project
-* Our goal is to build a machine learning algoriths that accurately classifies a fashion article as much as possible.  
+* Our goal is to build a machine learning algorithm that accurately classifies a fashion article as much as possible.  
 
 
 ## Project plan
